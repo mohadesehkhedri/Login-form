@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@0;1&display=swap');
+
+.grid-container {
+  /* padding: 10px; */
+  /* margin-top: 100px; */
+  align-items: center;
+  display: 'flex',
+}
+
+.LoginForm {
+  margin-top: 100px;
+}
+
+.login-input {
+  background-color: #f3f3f3;
+}
+
+.sub-title {
+  color: #999;
+}
+
+.account {
+  color: #999;
+}
+
+.remember .MuiTypography-root {
+  font-size: 12px;
+  color: #999;
+}
+.recovery {
+  font-size: 12px;
+
+}
+
+.submit-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px !important;
+}
